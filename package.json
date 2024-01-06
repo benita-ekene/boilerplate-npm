@@ -4,6 +4,7 @@
 	"description": "Package management with NPM",
 	"keywords": [ "freecodecamp", "backend", "APIs" ],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0",
 		"nodemon": "^3.0.2"
