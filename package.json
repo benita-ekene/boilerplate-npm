@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Benita Ekene",
 	"description": "Package management with NPM",
+	"keywords": [ "freecodecamp", "backend", "APIs" ],
 	"dependencies": {
 		"express": "^4.14.0",
 		"nodemon": "^3.0.2"
