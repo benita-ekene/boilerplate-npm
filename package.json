@@ -2,10 +2,15 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Benita Ekene",
 	"description": "Package management with NPM",
-	"keywords": [ "freecodecamp", "backend", "APIs" ],
+	"keywords": [
+		"freecodecamp",
+		"backend",
+		"APIs"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
+		"@freecodecamp/example": "^1.1.0",
 		"express": "^4.14.0",
 		"nodemon": "^3.0.2"
 	},
