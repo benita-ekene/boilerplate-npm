@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Benita Ekene",
+	"description": "Package management with NPM",
 	"dependencies": {
 		"express": "^4.14.0",
 		"nodemon": "^3.0.2"
